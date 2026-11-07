@@ -17,4 +17,5 @@ Content:
 ## Reference
 
 Bruce, P., Bruce, A., & Gedeck, P. (2020). *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python* (2nd ed.). O'Reilly Media.
+
 <a style="width: 200px" href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X"><img alt="Introduction to Machine Learning with Python Cover" src="./cover.jpeg" style="width: 200px; height: auto; padding: 10px;"></a>
